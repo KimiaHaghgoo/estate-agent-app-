@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KimiaHaghgoo/estateAgentApp/static/css/main.a5f540e8.css",
+    "main.js": "/KimiaHaghgoo/estateAgentApp/static/js/main.8f00b30d.js",
+    "static/js/453.d2e7f1d8.chunk.js": "/KimiaHaghgoo/estateAgentApp/static/js/453.d2e7f1d8.chunk.js",
+    "index.html": "/KimiaHaghgoo/estateAgentApp/index.html",
+    "main.a5f540e8.css.map": "/KimiaHaghgoo/estateAgentApp/static/css/main.a5f540e8.css.map",
+    "main.8f00b30d.js.map": "/KimiaHaghgoo/estateAgentApp/static/js/main.8f00b30d.js.map",
+    "453.d2e7f1d8.chunk.js.map": "/KimiaHaghgoo/estateAgentApp/static/js/453.d2e7f1d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5f540e8.css",
+    "static/js/main.8f00b30d.js"
+  ]
+}
